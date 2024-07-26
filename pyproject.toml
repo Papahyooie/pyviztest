@@ -1,5 +1,5 @@
-[tool.poetry]"
-name =" "pyviztest"
+[tool.poetry]
+name = "pyviztest"
 version = "1.0.0"
 description = ""
 authors = [""]
