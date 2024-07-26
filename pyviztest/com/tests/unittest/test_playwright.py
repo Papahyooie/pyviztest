@@ -1,12 +1,8 @@
 import os
 from pathlib import Path
-import allure
 from playwright.sync_api import Page
 import pytest
-from com.pyviztestcore.viztest import VisualTest
-from com.tests.unittest.pageobject import *
-from com.tests.unittest.testdata import *
-from com.tests.unittest.config import *
+from pyviztest.com.pyviztestcore.viztest import VisualTest
 import shutil
 
 @pytest.fixture(scope="function", autouse=True)
