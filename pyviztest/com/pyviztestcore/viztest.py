@@ -1,5 +1,5 @@
 from typing import Any
-from com.pyviztestcore.pyviztestmain import VisualTestMain
+from pyviztest.com.pyviztestcore.pyviztestmain import VisualTestMain
 
 class VisualTest:
 
