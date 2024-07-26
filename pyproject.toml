@@ -5,7 +5,7 @@ description = ""
 authors = [""]
 readme = "README.md"
 
-[tool.poetry.dependencies]"
+[tool.poetry.dependencies]
 python ="^3.11"
 ﻿allure-pytest="2.13.1"
 allure-python-commons="2.13.1"
