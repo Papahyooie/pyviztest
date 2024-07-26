@@ -2,7 +2,7 @@
 name = "pyviztest"
 version = "1.0.0"
 description = ""
-authors = [""]
+authors = ["sanosuke009 <sanosuke009@github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
